@@ -1,0 +1,14 @@
+/home/sherman/project/ocelot/API001/bin/Debug/netcoreapp2.1/API001.deps.json
+/home/sherman/project/ocelot/API001/bin/Debug/netcoreapp2.1/API001.runtimeconfig.json
+/home/sherman/project/ocelot/API001/bin/Debug/netcoreapp2.1/API001.runtimeconfig.dev.json
+/home/sherman/project/ocelot/API001/bin/Debug/netcoreapp2.1/API001.dll
+/home/sherman/project/ocelot/API001/bin/Debug/netcoreapp2.1/API001.pdb
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.csprojAssemblyReference.cache
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.csproj.CoreCompileInputs.cache
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.RazorAssemblyInfo.cache
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.RazorAssemblyInfo.cs
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.AssemblyInfoInputs.cache
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.AssemblyInfo.cs
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.RazorTargetAssemblyInfo.cache
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.dll
+/home/sherman/project/ocelot/API001/obj/Debug/netcoreapp2.1/API001.pdb

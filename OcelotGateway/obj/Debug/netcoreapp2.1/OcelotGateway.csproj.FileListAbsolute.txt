@@ -1,0 +1,14 @@
+/home/sherman/project/ocelot/OcelotGateway/bin/Debug/netcoreapp2.1/OcelotGateway.deps.json
+/home/sherman/project/ocelot/OcelotGateway/bin/Debug/netcoreapp2.1/OcelotGateway.runtimeconfig.json
+/home/sherman/project/ocelot/OcelotGateway/bin/Debug/netcoreapp2.1/OcelotGateway.runtimeconfig.dev.json
+/home/sherman/project/ocelot/OcelotGateway/bin/Debug/netcoreapp2.1/OcelotGateway.dll
+/home/sherman/project/ocelot/OcelotGateway/bin/Debug/netcoreapp2.1/OcelotGateway.pdb
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.csprojAssemblyReference.cache
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.csproj.CoreCompileInputs.cache
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.RazorAssemblyInfo.cache
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.RazorAssemblyInfo.cs
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.AssemblyInfoInputs.cache
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.AssemblyInfo.cs
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.RazorTargetAssemblyInfo.cache
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.dll
+/home/sherman/project/ocelot/OcelotGateway/obj/Debug/netcoreapp2.1/OcelotGateway.pdb
